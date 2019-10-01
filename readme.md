@@ -1,10 +1,10 @@
 ### Stopwatch by [@Maciekbe89](http://github.com/Maciekbe89)!
 
-I created this app in javascript. 
+I created this app in vanilla javascript. 
 
 ## design
 ![img/screen.png](img/screen.png)
 
-The app also works when you're going to browse diffrent pages on another cards. Timer you can see in title.
+The app also works with not focused cards. The timer is visible in the card's title.
 
 ![img/title.png](img/title.png)
